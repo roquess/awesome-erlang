@@ -194,6 +194,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [jiffy](https://github.com/davisp/jiffy) - JSON NIFs for Erlang.
 * [jsx](https://github.com/talentdeficit/jsx) - An erlang application for consuming, producing and manipulating json.
 * [miffy](https://github.com/expelledboy/miffy) - Jiffy wrapper which returns pretty maps.
+* [ollama_translator](https://hex.pm/packages/ollama_translator) - Natural language translation tool using Ollama API.
 * [qsp](https://github.com/artemeff/qsp) - Enhanced query string parser for Erlang.
 * [rec2json](https://github.com/lordnull/rec2json) - Generate JSON encoder/decoder from record specs.
 
