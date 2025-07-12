@@ -59,8 +59,8 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Codebase Maintenance
 *Libraries and tools to maintain a clean codebase.*
 
+* [aleph_ollama](https://hex.pm/packages/aleph_ollama) - AI-powered source code translation tool using Ollama API.
 * [elvis](https://github.com/inaka/elvis) - Erlang Style Reviewer.
-* [aleph_ollama](https://hex.pm/packages/aleph_ollama) - AI-powered source code translation tool using local Ollama API.
 
 ## Web Frameworks
 *Web development frameworks.*
