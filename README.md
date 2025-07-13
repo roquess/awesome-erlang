@@ -59,7 +59,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 ## Codebase Maintenance
 *Libraries and tools to maintain a clean codebase.*
 
-* [aleph_ollama](https://hex.pm/packages/aleph_ollama) - AI-powered source code translation tool using Ollama API.
+* [aleph_ollama](https://github.com/aleph-lang/aleph_ollama_erlang) - AI-powered source code translation tool using Ollama API.
 * [elvis](https://github.com/inaka/elvis) - Erlang Style Reviewer.
 
 ## Web Frameworks
@@ -194,7 +194,7 @@ A curated list of amazingly awesome Erlang libraries, resources and shiny thing 
 * [jiffy](https://github.com/davisp/jiffy) - JSON NIFs for Erlang.
 * [jsx](https://github.com/talentdeficit/jsx) - An erlang application for consuming, producing and manipulating json.
 * [miffy](https://github.com/expelledboy/miffy) - Jiffy wrapper which returns pretty maps.
-* [ollama_translator](https://hex.pm/packages/ollama_translator) - Natural language translation tool using Ollama API.
+* [ollama_translator](https://github.com/roquess/ollama_translator_erlang) - Natural language translation tool using Ollama API.
 * [qsp](https://github.com/artemeff/qsp) - Enhanced query string parser for Erlang.
 * [rec2json](https://github.com/lordnull/rec2json) - Generate JSON encoder/decoder from record specs.
 
